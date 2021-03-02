@@ -1,0 +1,14 @@
+.user-list{
+	list-style: none;
+	margin-bottom: 12px;
+}
+
+.user-list a {
+	margin-right: 10px;
+}
+
+
+
+.menu-container{
+	margin-left: 1086px;
+}
